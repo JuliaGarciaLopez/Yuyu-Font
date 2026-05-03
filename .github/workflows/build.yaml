@@ -109,6 +109,12 @@ jobs:
           path: ${{ env.ZIP_NAME }}
       - name: Copy ARTICLE.en_us.html to release directory
         run: cp documentation/ARTICLE.en_us.html ${{ env.ZIP_NAME }}/ARTICLE.en_us.html
+      - name: Copy images to release directory
+        run: |
+          cp documentation/image1.png ${{ env.ZIP_NAME }}/image1.png
+          cp documentation/image2.png ${{ env.ZIP_NAME }}/image2.png
+          cp documentation/image3.png ${{ env.ZIP_NAME }}/image3.png
+          cp documentation/image4.png ${{ env.ZIP_NAME }}/image4.png
         continue-on-error: true
       - name: Copy OFL.txt to release directory
         run: cp OFL.txt ${{ env.ZIP_NAME }}/OFL.txt
