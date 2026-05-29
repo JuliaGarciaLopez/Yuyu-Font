@@ -221,7 +221,7 @@ value = 1;
 }
 );
 date = "2024-09-16 20:00:00 +0000";
-familyName = "Yuyu Mid";
+familyName = Yuyu;
 fontMaster = (
 {
 axesValues = (
@@ -18834,7 +18834,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Yuyu Mid";
+value = Yuyu;
 }
 );
 },
@@ -18875,5 +18875,5 @@ m01 = {
 };
 };
 versionMajor = 1;
-versionMinor = 3;
+versionMinor = 4;
 }
