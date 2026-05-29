@@ -62,7 +62,7 @@ ttfaUseScript: false  # Set this to true if your font is not Latin
 # if you specify a dictionary which does not contain an entry
 # for each VF file built.
 stat:
-  "YuyuMid[wght].ttf":
+  "Yuyu[wght].ttf":
   - name: Weight
     tag: wght
     values:
