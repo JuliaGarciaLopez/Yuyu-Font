@@ -3,3 +3,4 @@ sources:
 familyName: "Yuyu"
 outputDir: ../fonts/Yuyu
 buildVariable: false
+cleanUp: true
