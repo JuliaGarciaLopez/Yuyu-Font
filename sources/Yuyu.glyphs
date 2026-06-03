@@ -18274,24 +18274,6 @@ width = 167;
 }
 );
 unicode = 731;
-},
-{
-glyphname = Latin;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-},
-{
-glyphname = Letter;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
 }
 );
 instances = (
