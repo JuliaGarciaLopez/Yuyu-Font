@@ -13170,6 +13170,28 @@ width = 600;
 );
 },
 {
+glyphname = newGlyph;
+lastChange = "2026-06-03 13:59:15 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 8233;
+},
+{
+glyphname = newGlyph.001;
+lastChange = "2026-06-03 13:59:11 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 8232;
+},
+{
 glyphname = period;
 lastChange = "2026-04-28 12:49:43 +0000";
 layers = (
