@@ -13165,19 +13165,8 @@ width = 600;
 );
 },
 {
-glyphname = newGlyph;
-lastChange = "2026-06-03 13:59:15 +0000";
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 8233;
-},
-{
-glyphname = newGlyph.001;
-lastChange = "2026-06-03 13:59:11 +0000";
+glyphname = lineseparator;
+lastChange = "2026-06-03 14:05:44 +0000";
 layers = (
 {
 layerId = m01;
@@ -13185,6 +13174,17 @@ width = 600;
 }
 );
 unicode = 8232;
+},
+{
+glyphname = paragraphseparator;
+lastChange = "2026-06-03 14:05:44 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 8233;
 },
 {
 glyphname = period;
@@ -18318,9 +18318,6 @@ key = licenseURL;
 value = "https://openfontlicense.org";
 }
 );
-settings = {
-disablesNiceNames = 1;
-};
 stems = (
 {
 horizontal = 1;
