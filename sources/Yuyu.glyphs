@@ -1,15 +1,7 @@
 {
 .appVersion = "3516";
 .formatVersion = 3;
-DisplayStrings = (
-"DĎ¶"
-);
 customParameters = (
-{
-disabled = 1;
-name = vendorID;
-value = "";
-},
 {
 name = panose;
 value = (
@@ -16150,39 +16142,9 @@ unicode = 124;
 },
 {
 glyphname = cent;
-lastChange = "2026-04-28 12:49:43 +0000";
+lastChange = "2026-06-03 14:02:41 +0000";
 layers = (
 {
-hints = (
-{
-horizontal = 1;
-place = (14.57,73.57);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (210.45,60.2);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (358.75,62.41);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (700.99,62.13);
-type = Stem;
-},
-{
-place = (124,58.32);
-type = Stem;
-},
-{
-place = (312,58.05);
-type = Stem;
-}
-);
 layerId = m01;
 shapes = (
 {
@@ -16249,36 +16211,9 @@ unicode = 162;
 },
 {
 glyphname = dollar;
-lastChange = "2026-04-28 12:49:43 +0000";
+lastChange = "2026-06-03 14:02:44 +0000";
 layers = (
 {
-hints = (
-{
-horizontal = 1;
-place = (587,53);
-type = Stem;
-},
-{
-place = (158,105.9);
-type = Stem;
-},
-{
-place = (154.67,60.33);
-type = Stem;
-},
-{
-place = (169.08,60.54);
-type = Stem;
-},
-{
-place = (132.7,100.3);
-type = Stem;
-},
-{
-place = (179,54.25);
-type = Stem;
-}
-);
 layerId = m01;
 shapes = (
 {
@@ -18366,15 +18301,6 @@ values = (
 {
 language = dflt;
 value = "JGLO Julia Garcia Lopez";
-}
-);
-},
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = Yuyu;
 }
 );
 },
