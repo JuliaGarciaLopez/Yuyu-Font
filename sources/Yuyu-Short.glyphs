@@ -1,6 +1,9 @@
 {
 .appVersion = "3516";
 .formatVersion = 3;
+DisplayStrings = (
+"D¶"
+);
 customParameters = (
 {
 name = panose;
@@ -1170,7 +1173,7 @@ unicode = 266;
 {
 glyphname = D;
 kernRight = "d-t";
-lastChange = "2026-04-28 12:49:24 +0000";
+lastChange = "2026-06-03 14:20:41 +0000";
 layers = (
 {
 anchors = (
@@ -1240,8 +1243,8 @@ nodes = (
 (202,419,o),
 (205,386,cs),
 (215,277,o),
-(184,173,o),
-(96,75,c)
+(182,173,o),
+(94,75,c)
 );
 }
 );
@@ -14037,7 +14040,7 @@ unicode = 38;
 },
 {
 glyphname = paragraph;
-lastChange = "2026-04-28 12:49:25 +0000";
+lastChange = "2026-06-03 14:20:46 +0000";
 layers = (
 {
 layerId = m01;
@@ -14088,14 +14091,14 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(140,273,o),
+(138,273,o),
 (120,357,o),
 (106,469,cs),
 (98,532,o),
 (108,638,o),
 (183,668,c),
 (198,668,l),
-(200,195,l)
+(198,195,l)
 );
 }
 );
