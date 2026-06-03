@@ -1,6 +1,9 @@
 {
 .appVersion = "3516";
 .formatVersion = 3;
+DisplayStrings = (
+"DĎ¶"
+);
 customParameters = (
 {
 disabled = 1;
@@ -1174,7 +1177,7 @@ unicode = 266;
 },
 {
 glyphname = D;
-lastChange = "2026-04-28 12:49:43 +0000";
+lastChange = "2026-06-03 13:59:55 +0000";
 layers = (
 {
 anchors = (
@@ -1244,8 +1247,8 @@ nodes = (
 (232,419,o),
 (235,386,cs),
 (245,277,o),
-(214,173,o),
-(126,75,c)
+(212,173,o),
+(124,75,c)
 );
 }
 );
@@ -15534,7 +15537,7 @@ unicode = 38;
 },
 {
 glyphname = paragraph;
-lastChange = "2026-04-28 12:49:43 +0000";
+lastChange = "2026-06-03 14:00:01 +0000";
 layers = (
 {
 layerId = m01;
@@ -15585,14 +15588,14 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(140,273,o),
+(138,273,o),
 (120,357,o),
 (106,469,cs),
 (98,532,o),
 (108,638,o),
 (183,668,c),
 (198,668,l),
-(200,195,l)
+(198,195,l)
 );
 }
 );
