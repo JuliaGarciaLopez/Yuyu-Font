@@ -1,0 +1,6 @@
+sources:
+  - Yuyu-Short.glyphs
+familyName: "Yuyu Short"
+outputDir: ../fonts/Yuyu-Short
+buildVariable: false
+cleanUp: true
